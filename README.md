@@ -10,5 +10,6 @@ Currently studying for CompTIA Security+ SY0-701. I will be keeping my notes and
 |Threats, Vulnerabilities, Mitigations|22%|
 |Security Architecture|18%|
 |Security Operations|28%|
-|Security Program Mangagement and Oversight|20%
+|Security Program Mangagement and Oversight|20%|
+
 Based on the [Official CompTIA Security+ Certification Exam Objectives for SY0-701](https://www.comptia.org/training/resources/exam-objectives).
