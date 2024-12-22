@@ -14,4 +14,4 @@ Currently studying for CompTIA Security+ SY0-701. I will be keeping my notes and
 
 Based on the [Official CompTIA Security+ Certification Exam Objectives for SY0-701](https://www.comptia.org/training/resources/exam-objectives).
 ### Notes
-- Maybe as a challenge, learn and memorize all the acryomns because I heard there are a lot.
+- Maybe as a challenge, learn and memorize all the acronyms because I heard there are a lot.
